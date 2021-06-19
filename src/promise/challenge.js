@@ -14,3 +14,7 @@ fetchData(api)
      console.log(data.dimension)
  })
  .catch(error=> console.error(error));
+
+
+
+ 
